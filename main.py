@@ -17,7 +17,7 @@ options.add_argument("--window-size=1920,1200")
 service = Service(executable_path='chromedriver-win64/chromedriver.exe')
 options = webdriver.ChromeOptions()
 driver = webdriver.Chrome(service=service, options=options)
-driver.get("https://ww2.123moviesfree.net/search/?q=breaking+bad")
+driver.get("https://ww2.123moviesfree.net/search/?q=top+gun")
 
 element = driver.find_elements(By.XPATH,
                                "/html/body/main/div/div[@class='card-body p-0']/div[@id='resdata']/div[@class='col']/div[@class='card h-100 border-0 shadow']/a")  # using XPATH to find link to movie
