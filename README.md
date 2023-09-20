@@ -4,7 +4,7 @@ Piraflix is a Python-based application that allows you to access a vast collecti
 
 ## Features
 
-### Free Access:
+### Free Access: *work in progress*
 Enjoy movies and TV shows without any subscription fees or payments.
 ### User-Friendly Interface:
 An intuitive interface makes it easy to browse and discover new content.
